@@ -7,3 +7,5 @@ pypdf
 requests
 sentence-transformers
 python-dotenv
+langchain-community
+langchain-community

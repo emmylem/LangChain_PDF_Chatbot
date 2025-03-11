@@ -6,7 +6,8 @@ lib64/
 include/
 pyvenv.cfg
 
-
+# Environment variables
+.env
 
 # Database files or temporary data
 chroma_db/
