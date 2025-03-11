@@ -1,0 +1,9 @@
+Flask
+gunicorn
+langchain
+chromadb
+pymupdf  # Instead of fitz (PyMuPDF is the correct package)
+pypdf
+requests
+sentence-transformers
+python-dotenv
