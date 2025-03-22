@@ -1,6 +1,7 @@
 # Python virtual environment
 venv/
 bin/
+.venv/
 lib/
 lib64/
 include/
@@ -31,3 +32,4 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+.venv
